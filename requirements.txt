@@ -1,3 +1,5 @@
-Pandas 
-Numpy 
-FLask
+pandas 
+numpy 
+fLask
+seaborn
+scikit-learn
